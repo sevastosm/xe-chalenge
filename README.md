@@ -25,7 +25,7 @@ To get started with this project, follow these steps:
 
  **Clone the repository**:
    ```sh
-   git clone https://github.com/sevastosm/xe-chalenge
+   git clone https://github.com/sevastosm/xe-chalenge.git
    ```
 
 1. **Move to client directory**:
