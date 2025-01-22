@@ -27,10 +27,11 @@ To get started with this server application, follow these steps:
    npm install
    ```
 
-3. **for demo purposes env flie exists in the root folder of the project.
+3. **start the application**:
    ```sh
    npm start
    ```
+for demo purposes env flie exists in the root folder of the project.
 
 The server should now be running on `http://localhost:5000`.
 
