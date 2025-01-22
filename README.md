@@ -4,6 +4,7 @@ This project uses the following technologies:
 
 - **React**: A JavaScript library for building user interfaces.
 - **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **Tailwind**: A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in the markup..
 - **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
 - **Radix UI**: A set of low-level, accessible UI components for building high-quality design systems and web apps.
 - **Lucide Icons**: A collection of simple and consistent icons for React.
