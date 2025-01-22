@@ -16,7 +16,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/sevastosm/xe-chalenge.git
-   cd your-repo-name
+   cd client
    ```
 
 2. **Install dependencies**:
