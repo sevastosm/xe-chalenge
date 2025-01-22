@@ -1,4 +1,4 @@
-## Tech Stack
+## Tech Stack Client application
 
 This project uses the following technologies:
 
@@ -10,12 +10,26 @@ This project uses the following technologies:
 - **Testing Library**: A set of utilities for testing React components.
 - **Vitest**: A blazing fast unit test framework powered by Vite.
 
-## Installation
+## Tech Stack Server application
+
+- **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- **Express**: A minimal and flexible Node.js web application framework.
+- **MongoDB**: A NoSQL database for storing data.
+- **Mongoose**: An ODM (Object Data Modeling) library for MongoDB and Node.js.
+- **Cors**: A middleware for enabling Cross-Origin Resource Sharing.
+- **Dotenv**: A module that loads environment variables from a `.env` file.
+- **Morgan**: A HTTP request logger middleware for Node.js.
+
+## Installation 
 To get started with this project, follow these steps:
 
-1. **Clone the repository**:
+ **Clone the repository**:
    ```sh
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/sevastosm/xe-chalenge
+   git clone https://github.com/sevastosm/xe-chalenge
+   ```
+
+1. **Move to client directory**:
+   ```sh
    cd client
    ```
 
@@ -44,7 +58,30 @@ To get started with this project, follow these steps:
    npm run preview
    ```
 
-For more detailed information, refer to the individual documentation of each technology used in this project.
+# Server.
+
+## Installation
+
+To get started with this server application, follow these steps:
+
+1. **Move to server directory**:
+   ```sh
+   cd server
+   ```
+
+2. **Install dependencies**:
+   ```sh
+   npm install
+   ```
+
+3. **for demo purposes env flie exists in the root folder of the project.
+   ```sh
+   npm start
+   ```
+
+The server should now be running on `http://localhost:5000`.
+
+
 
 
 
