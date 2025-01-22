@@ -19,8 +19,7 @@ export async function getAutocompleteResults(input: string): Promise<Autocomplet
     }
 
     // Make API request if not in cache
-    const response = await axios.get(`${API_BASE_URL}`, {
-      params: { input },
+    const response = await axios.get(`${process.env.API_BASE_URL}?input=${input}`, {
       timeout: 5000 // 5 second timeout
     });
 

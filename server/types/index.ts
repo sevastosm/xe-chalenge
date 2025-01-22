@@ -12,4 +12,15 @@ export interface SearchResponse {
 
 export interface ErrorResponse {
   error: string;
+}
+
+export interface Ad {
+  _id: string;
+  title: string;
+  description: string;
+  price: number;
+  location: string;
+  category: string;
+  createdAt: Date;
+  updatedAt: Date;
 } 
