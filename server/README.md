@@ -18,8 +18,8 @@ To get started with this server application, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name/server
+   git clone https://github.com/sevastosm/xe-chalenge.git
+   cd server
    ```
 
 2. **Install dependencies**:
